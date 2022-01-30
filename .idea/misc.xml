@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/2DAM/ConcesionarioAriasPedro/app/src/main/res/layout/fragment_ver_coche.xml" value="0.28940217391304346" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/drawable/ic_baseline_data_thresholding_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.25833333333333336" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/app_bar_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/content_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/fragment_contacto.xml" value="0.33" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/fragment_gallery.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/fragment_home.xml" value="0.1762917933130699" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/fragment_slideshow.xml" value="0.21" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/fragment_ver_coche.xml" value="0.5" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/item.xml" value="0.1762917933130699" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/layout/nav_header_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/menu/activity_main_drawer.xml" value="0.3569230769230769" />
+        <entry key="..\:/Documentos/2DAM/PruebaMenuDeNavegacion/app/src/main/res/menu/main.xml" value="0.2657407407407407" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
